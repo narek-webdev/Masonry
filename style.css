@@ -1,0 +1,11 @@
+body {
+  background-color: gray;
+}
+
+.container {
+  margin: 0 auto;
+} 
+
+img {
+  position: absolute;
+}
